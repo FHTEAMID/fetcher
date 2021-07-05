@@ -1,0 +1,40 @@
+{
+  "name": "fetcher-bot",
+  "version": "1.0.1",
+  "description": "fetch dengan mudah kini kalian gada perlu bikin fetcher.js lagi ;) and happy coding",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FHTEAMID/fetcher.git"
+  },
+  "keywords": [
+    "fetcher",
+    "scraper",
+    "fhteam",
+    "getBuffer",
+    "get",
+    "post",
+    "bot"
+  ],
+  "author": "FARHAN - FHTEAM",
+  "license": "MIT",
+  "homepage": "https://github.com/FHTEAMID/fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "node-fetch": "^2.6.1",
+    "image-to-base64": "^2.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^9.0.1",
+    "fake-useragent": "^1.0.1",
+    "async": "^2.4.1",
+    "got": "^11.8.2",
+    "axios": "^0.21.0",
+    "moment-timezone": "^0.5.32",
+  },
+  "bugs": {
+    "url": "https://github.com/FHTEAMID/fetcher/issues"
+  }
+}
